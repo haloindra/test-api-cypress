@@ -4,15 +4,11 @@ This project encompasses a comprehensive testing suite for an API-based blog pla
 
 ## Getting Started
 
-### Running Test
-https://github.com/haloindra/test-api-cypress/assets/96364035/69d6e923-8adc-4009-9d5e-5ae4571e683e
-
 ### Prerequisites
 
 - **API Sample**: https://github.com/taufanfadhilah/nest-blog-api
 - **Cypress:** Utilized as the primary testing framework for its simplicity and effectiveness in API testing.
 - **JavaScript:** Used for scripting test scenarios within the Cypress framework.
-
 
 ### Usage
 To run these tests, make sure you have [Cypress](https://www.cypress.io/) installed in your project.
@@ -21,6 +17,9 @@ To run these tests, make sure you have [Cypress](https://www.cypress.io/) instal
 2. Install the project dependencies: `npm install`.
 3. Open Cypress: `npx cypress open`.
 4. Click on the test file `testSuite.cy.js` to run the test suite.
+
+### Running Test
+https://github.com/haloindra/test-api-cypress/assets/96364035/69d6e923-8adc-4009-9d5e-5ae4571e683e
 
 ## Contributing
 
