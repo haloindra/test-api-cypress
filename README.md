@@ -5,7 +5,7 @@ This project encompasses a comprehensive testing suite for an API-based blog pla
 ## Getting Started
 
 ### Running Test
-https://github.com/haloindra/test-api-cypress/assets/96364035/69d6e923-8adc-4009-9d5e-5ae4571e683e
+<https://github.com/haloindra/test-api-cypress/assets/96364035/69d6e923-8adc-4009-9d5e-5ae4571e683e width="320">
 
 ### Prerequisites
 
