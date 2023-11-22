@@ -17,7 +17,7 @@ To run these tests, make sure you have [Cypress](https://www.cypress.io/) instal
 1. Clone this repository.
 2. Install the project dependencies: `npm install`.
 3. Open Cypress: `npx cypress open`.
-4. Click on the test file `login-page.spec.js` to run the test suite.
+4. Click on the test file `testSuite.cy.js` to run the test suite.
 
 ## Contributing
 
