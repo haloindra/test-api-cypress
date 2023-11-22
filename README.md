@@ -1,10 +1,8 @@
-# Project Name
+# Cypress API Testing
 
 This project encompasses a comprehensive testing suite for an API-based blog platform. Leveraging the Cypress framework, it thoroughly tests the functionality and reliability of the API endpoints associated with user authentication, post management, and comment systems.
 
 ## Getting Started
-
-Provide a brief overview of your project, including any prerequisites and installation instructions.
 
 ### Prerequisites
 
