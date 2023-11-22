@@ -1,6 +1,6 @@
 # Project Name
 
-Brief description of your project.
+This project encompasses a comprehensive testing suite for an API-based blog platform. Leveraging the Cypress framework, it thoroughly tests the functionality and reliability of the API endpoints associated with user authentication, post management, and comment systems.
 
 ## Getting Started
 
@@ -8,7 +8,10 @@ Provide a brief overview of your project, including any prerequisites and instal
 
 ### Prerequisites
 
-List any software, tools, or dependencies that users need to install before using your project.
+**API Sample**: https://github.com/taufanfadhilah/nest-blog-api
+**Cypress:** Utilized as the primary testing framework for its simplicity and effectiveness in API testing.
+**JavaScript:** Used for scripting test scenarios within the Cypress framework.
+
 
 ### Usage
 To run these tests, make sure you have [Cypress](https://www.cypress.io/) installed in your project.
