@@ -6,6 +6,7 @@ This project encompasses a comprehensive testing suite for an API-based blog pla
 
 ### Running Test
 <iframe width="320" https:"//github.com/haloindra/test-api-cypress/assets/96364035/69d6e923-8adc-4009-9d5e-5ae4571e683e"></iframe>
+<iframe width="560" height="315" src="//github.com/haloindra/test-api-cypress/assets/96364035/69d6e923-8adc-4009-9d5e-5ae4571e683e" frameborder="0" allowfullscreen></iframe>
 
 ### Prerequisites
 
