@@ -6,9 +6,9 @@ This project encompasses a comprehensive testing suite for an API-based blog pla
 
 ### Prerequisites
 
-**API Sample**: https://github.com/taufanfadhilah/nest-blog-api
-**Cypress:** Utilized as the primary testing framework for its simplicity and effectiveness in API testing.
-**JavaScript:** Used for scripting test scenarios within the Cypress framework.
+- **API Sample**: https://github.com/taufanfadhilah/nest-blog-api
+- **Cypress:** Utilized as the primary testing framework for its simplicity and effectiveness in API testing.
+- **JavaScript:** Used for scripting test scenarios within the Cypress framework.
 
 
 ### Usage
