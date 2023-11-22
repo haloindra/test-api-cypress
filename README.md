@@ -4,6 +4,9 @@ This project encompasses a comprehensive testing suite for an API-based blog pla
 
 ## Getting Started
 
+### Running Test
+
+
 ### Prerequisites
 
 - **API Sample**: https://github.com/taufanfadhilah/nest-blog-api
